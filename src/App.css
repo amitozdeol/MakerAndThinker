@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -21,4 +21,38 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
-}
+} */
+
+
+body {
+  width: 100%;	
+  overflow: hidden;
+  background: url("http://i.imgur.com/GG41Z6o.jpg") no-repeat center center fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #000000;
+  }
+  
+  
+  .wrap {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 120px;
+    }
+  
+  .newdesign {
+  position: relative;
+  text-align: center;
+  }
+  
+  
+  .comingsoon {
+  position: relative;
+  text-align: center;
+  padding-top: 45px;
+  }
+  
+  
+  #robot {
+  position: relative;
+  }
